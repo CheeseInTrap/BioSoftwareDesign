@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526459224 source:c:\mycode\biosoftware\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
